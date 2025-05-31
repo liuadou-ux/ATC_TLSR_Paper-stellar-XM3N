@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "tl_common.h": "c",
+        "drivers.h": "c",
+        "epd_bwr_296.h": "c",
+        "main.h": "c",
+        "epd_spi.h": "c"
+    }
+}
