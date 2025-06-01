@@ -30,33 +30,33 @@
 
 - 1.获取蓝牙
 
-![小程序主页](https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/1.png)
+<img src="https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/1.png" width="210px">
 
 点击获得蓝牙，如果没有出现蓝牙列表，则再次点击获得蓝牙，出现蓝牙列表后，没有墨水屏上显示的BLE_******的蓝牙就下拉界面直到出现BLE开头的蓝牙
 
 - 2.连接蓝牙
 
-![连接蓝牙](https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/2.jpg)
+<img src="https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/2.png" width="210px">
 
 点击BLE开头的蓝牙
 
 - 3.获取蓝服务
 
-![连接服务](https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/3.jpg)
+<img src="https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/3.png" width="210px">
 
 一定要连接 **00001F10** 这个开头的服务特征值，当然了有人就会说了，咋不整一个一件链接的，关键是我不会啊（doge）
 
 - 4.获取特征
 
-![连接特征值](https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/4.jpg)
+<img src="https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/4.png" width="210px">
 
 特征值就一个直接连接
 
 - 5.设置为设备
 
-![设备](https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/5.jpg)
+<img src="https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/5.png" width="210px"><img src="https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/6.png" width="210px">
 
 - 6.设置
 
-![设置界面]()
+![设置界面](https://github.com/liuadou-ux/ATC_TLSR_Paper-stellar-XM3N/blob/main/images/7.jpg)
 
